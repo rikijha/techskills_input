@@ -10,6 +10,7 @@
 </techskills-fa-input>
 
 ##For using Material Icon version
+
 <techskills-md-input icon="search">
         <input type="email" name="email" placeholder="E-mail">
 </techskills-md-input>
